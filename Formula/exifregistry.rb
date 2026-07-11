@@ -1,8 +1,9 @@
 class Exifregistry < Formula
   desc "Photographer's metadata toolkit: inspect, fix and organize photos from the terminal"
   homepage "https://exifregistry.com"
-  url "https://registry.npmjs.org/exifregistry/-/exifregistry-main.tgz"
-  sha256 ""
+  url "https://registry.npmjs.org/exifregistry/-/exifregistry-1.4.0.tgz"
+  version "1.4.0"
+  sha256 "edad73507e4528dc29d0cd960895ad9b618d6b68c6ecd5366ba533df0fbc9793"
   license "MIT"
 
   depends_on "node"
